@@ -24,6 +24,8 @@ One real sample:
 
 # How to use the tool
 
+<img src="img2lego.jpg" alt="img2lego"/>
+
 1- Run the exe file (dist/img2lego.exe)
 2- browse a jpg file
 3- choose the right number of colors and image size
