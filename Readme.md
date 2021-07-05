@@ -2,12 +2,16 @@ Are you interested to have your own Lego Art? Do you have a face picture?
 
 ![Lego art](Lego-Art.png)
 
-This tool helps you to do so. Let's see a sample
+This tool helps you to do so. Let's see a sample. This is the original image thatis going to become and Lego Art.
 
-![Sample original pic](MarilynMonroe.jpg)
+<img src="MarilynMonroe.jpg" alt="Sample original pic" width="300"/>
 
+using the tool (browse the jpg file, set image size to 64 and the number of colours to 8), the previous image changes to:
 
 ![Converted version with 8 colours 64x64](MarilynMonroe_64_8.jpg)
+
+The details for buying the legos will be reported, as a sample see here:
+
 [detailed report for buying legos](MarilynMonroe_64_8_Lego_details.rpt)
 
 # How to use the tool
