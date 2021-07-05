@@ -14,6 +14,14 @@ The details for buying the legos will be reported, as a sample see here:
 
 [detailed report for buying legos](MarilynMonroe_64_8_Lego_details.rpt)
 
+
+One real sample:
+
+<img src="Ghazal1.jpg" alt="input, RealSample" width="300"/>
+
+<img src="Ghazal1_128_4.jpg" alt="output, RealSample"/>
+
+
 # How to use the tool
 
 1- Run the exe file (dist/img2lego.exe)
